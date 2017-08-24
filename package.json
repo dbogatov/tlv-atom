@@ -1,12 +1,20 @@
 {
-  "name": "tl-verilog",
-  "version": "0.1.0",
-  "description": "TL-Verilog support",
-  "keywords": [],
-  "repository": "https://github.com/dbogatov/tlv-atom",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {}
+	"name": "tl-verilog",
+	"author": "Dmytro Bogatov <dmytro@dbogatov.org>",
+	"version": "0.2.0",
+	"description": "TL-Verilog support",
+	"keywords": [
+		"tlv",
+		"tl verilog",
+		"tl-verilog",
+		"verilog",
+		"grammar",
+		"syntax"
+	  ],
+	"repository": "https://github.com/dbogatov/tlv-atom",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {}
 }
