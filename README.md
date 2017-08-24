@@ -2,6 +2,14 @@
 
 ![Screenshot](static/screenshot.png)
 
+## How to use
+
+* Install `tl-verilog` package (eq. search "tlv" in settings)
+* Set color theme to `One Light`
+* Set syntax theme to `One Light`
+* Open .tlv file
+* Enjoy
+
 ## Features
 
 ### Done
